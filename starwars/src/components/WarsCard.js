@@ -9,7 +9,7 @@ const DivContainer = styled.div`
   flex-direction: column;
   align-items: center;
   padding: 1rem;
-  color: white;
+  color: lightgrey;
   font-weight:450;
   box-shadow: 0px 0 0.5rem;
   border: 2px solid black;

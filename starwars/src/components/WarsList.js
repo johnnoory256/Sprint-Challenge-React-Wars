@@ -29,7 +29,7 @@ function WarsList() {
     <DivContainer>
         {
       char.map((element, index) => {
-        console.log(e);
+        console.log(element);
         return (
         <WarsCard key={index} data={element} />
         )
